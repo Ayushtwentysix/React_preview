@@ -1,15 +1,25 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Email Exist",
+  "name": "Email Exist Dashboard",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "src": "email-envelope.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "email-envelope.png",
+      "sizes": "192X192",
+      "type": "image/png"
+    },
+     {
+      "src": "email-envelope.png",
+      "sizes": "512X512",
+      "type": "image/png"
     }
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#00467f",
+  "background_color": "white"
 }
